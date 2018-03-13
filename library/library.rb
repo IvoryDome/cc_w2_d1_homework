@@ -7,9 +7,4 @@ class Library
 
 
 
-
-
-
-
-  
 end
